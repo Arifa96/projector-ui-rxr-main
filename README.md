@@ -1,0 +1,1 @@
+Created a projector and RGB+Depth camera are mounted to a robotic arm which is centrally placed in a room. Once a person in the room performs an activation gesture, a UI is projected onto a surface close to that person, who can then interact with the UI to control some IoT device or similar.
